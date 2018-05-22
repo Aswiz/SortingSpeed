@@ -1,0 +1,37 @@
+[
+{
+	"sort_type": "InsertionSort",
+	"data_type": "Random",
+	"size": 150,
+	"time": 400,
+	"time_sec": 0.0024
+},
+{
+	"sort_type": "InsertionSort",
+	"data_type": "Random",
+	"size": 200,
+	"time": 500,
+	"time_sec": 0.0024
+},
+{
+	"sort_type": "InsertionSort",
+	"data_type": "Random",
+	"size": 250,
+	"time": 700,
+	"time_sec": 0.0024
+},
+{
+	"sort_type": "SelectionSort",
+	"data_type": "Random",
+	"size": 1000,
+	"time": 2748,
+	"time_sec": 0.002748
+},
+{
+	"sort_type": "BubbleSort",
+	"data_type": "Random",
+	"size": 1000,
+	"time": 3420,
+	"time_sec": 0.00342
+}
+]

@@ -1,0 +1,362 @@
+[
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 50,
+"time": 7
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 50,
+"time": 13
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 50,
+"time": 12
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 100,
+"time": 23
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 100,
+"time": 50
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 100,
+"time": 52
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 150,
+"time": 63
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 150,
+"time": 76
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 150,
+"time": 85
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 200,
+"time": 87
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 200,
+"time": 157
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 200,
+"time": 142
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 250,
+"time": 187
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 250,
+"time": 190
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 250,
+"time": 217
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 300,
+"time": 191
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 300,
+"time": 296
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 300,
+"time": 301
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 350,
+"time": 276
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 350,
+"time": 368
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 350,
+"time": 464
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 400,
+"time": 338
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 400,
+"time": 495
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 400,
+"time": 569
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 450,
+"time": 469
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 450,
+"time": 606
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 450,
+"time": 671
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 500,
+"time": 563
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 500,
+"time": 786
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 500,
+"time": 856
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 550,
+"time": 690
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 550,
+"time": 906
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 550,
+"time": 1120
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 600,
+"time": 764
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 600,
+"time": 1025
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 600,
+"time": 1408
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 650,
+"time": 971
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 650,
+"time": 1214
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 650,
+"time": 1409
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 700,
+"time": 1054
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 700,
+"time": 1381
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 700,
+"time": 1574
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 750,
+"time": 1365
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 750,
+"time": 1718
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 750,
+"time": 1865
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 800,
+"time": 1409
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 800,
+"time": 1785
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 800,
+"time": 2134
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 850,
+"time": 1692
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 850,
+"time": 2038
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 850,
+"time": 2293
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 900,
+"time": 2034
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 900,
+"time": 2232
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 900,
+"time": 2706
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 950,
+"time": 1947
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 950,
+"time": 2564
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 950,
+"time": 2808
+},
+{
+"sort_type": "InsertionSort",
+"data_type": "Random",
+"size": 1000,
+"time": 2419
+},
+{
+"sort_type": "SelectionSort",
+"data_type": "Random",
+"size": 1000,
+"time": 3096
+},
+{
+"sort_type": "BubbleSort",
+"data_type": "Random",
+"size": 1000,
+"time": 3418
+}
+]
