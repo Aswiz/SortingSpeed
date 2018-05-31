@@ -1,362 +1,101 @@
-[
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 50,
-"time": 7
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 50,
-"time": 13
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 50,
-"time": 12
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 100,
-"time": 23
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 100,
-"time": 50
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 100,
-"time": 52
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 150,
-"time": 63
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 150,
-"time": 76
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 150,
-"time": 85
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 200,
-"time": 87
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 200,
-"time": 157
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 200,
-"time": 142
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 250,
-"time": 187
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 250,
-"time": 190
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 250,
-"time": 217
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 300,
-"time": 191
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 300,
-"time": 296
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 300,
-"time": 301
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 350,
-"time": 276
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 350,
-"time": 368
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 350,
-"time": 464
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 400,
-"time": 338
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 400,
-"time": 495
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 400,
-"time": 569
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 450,
-"time": 469
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 450,
-"time": 606
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 450,
-"time": 671
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 500,
-"time": 563
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 500,
-"time": 786
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 500,
-"time": 856
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 550,
-"time": 690
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 550,
-"time": 906
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 550,
-"time": 1120
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 600,
-"time": 764
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 600,
-"time": 1025
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 600,
-"time": 1408
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 650,
-"time": 971
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 650,
-"time": 1214
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 650,
-"time": 1409
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 700,
-"time": 1054
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 700,
-"time": 1381
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 700,
-"time": 1574
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 750,
-"time": 1365
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 750,
-"time": 1718
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 750,
-"time": 1865
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 800,
-"time": 1409
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 800,
-"time": 1785
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 800,
-"time": 2134
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 850,
-"time": 1692
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 850,
-"time": 2038
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 850,
-"time": 2293
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 900,
-"time": 2034
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 900,
-"time": 2232
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 900,
-"time": 2706
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 950,
-"time": 1947
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 950,
-"time": 2564
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 950,
-"time": 2808
-},
-{
-"sort_type": "InsertionSort",
-"data_type": "Random",
-"size": 1000,
-"time": 2419
-},
-{
-"sort_type": "SelectionSort",
-"data_type": "Random",
-"size": 1000,
-"time": 3096
-},
-{
-"sort_type": "BubbleSort",
-"data_type": "Random",
-"size": 1000,
-"time": 3418
-}
-]
+
+50	7	11	10	1	
+1050	2111	2645	3508	7	
+2050	9223	10350	12395	13	
+3050	18111	21356	28427	19	
+4050	32132	37480	50300	23	
+5050	48927	59138	81637	29	
+6050	71296	85670	118124	28	
+7050	95448	118128	163669	33	
+8050	126596	148223	248988	91	
+9050	167879	190830	304461	46	
+10050	199601	234449	364142	50	
+11050	240675	290654	447613	78	
+12050	284136	334038	594329	57	
+13050	378496	414313	647938	52	
+14050	384795	464488	745217	60	
+15050	451159	528049	865222	99	
+16050	510410	595706	986779	84	
+17050	572216	685196	1116798	109	
+18050	639821	765014	1241233	47	
+19050	723452	840729	1399264	100	
+20050	792310	932534	1557733	127	
+21050	869251	1028218	1706552	79	
+22050	963929	1124006	1914278	154	
+23050	1049580	1253407	2212817	102	
+24050	1136986	1316296	2431867	65	
+25050	1311185	1474170	2561350	171	
+26050	1345227	1597347	2657039	96	
+27050	1425210	1676621	2875155	187	
+28050	1523304	1791288	3254085	81	
+29050	1863938	1960056	3524980	109	
+30050	1764306	2108719	3790971	94	
+31050	2071956	2427863	3968434	180	
+32050	2063133	2486665	4473862	82	
+33050	2224748	2552118	4416691	120	
+34050	2260867	2698758	4701338	239	
+35050	2401305	2840691	5100593	99	
+36050	2791640	3093554	5328843	229	
+37050	2783985	3338359	5693596	218	
+38050	2819855	3319823	5926506	140	
+39050	3149929	3636283	6271277	209	
+40050	3106562	3656391	6686954	281	
+41050	3314276	3834150	6773628	256	
+42050	3484516	4308499	7394159	381	
+43050	3705384	4389693	7511333	215	
+44050	4039537	4705586	8168165	121	
+45050	4155818	4670928	8557292	136	
+46050	4128382	4967547	8860867	347	
+47050	4429358	5068338	8986356	128	
+48050	4756588	5327973	9404202	340	
+49050	4947261	5952618	11048912	373	
+50050	5490599	6586321	10973283	227	
+51050	5610342	6367000	11647364	277	
+52050	5783226	6618665	11529933	289	
+53050	5661572	6819464	12073449	144	
+54050	6047841	6636600	12014590	280	
+55050	5934427	6879059	12444353	147	
+56050	6312190	7642472	13404277	514	
+57050	6733637	7696329	14228347	471	
+58050	6912866	8227392	14367659	457	
+59050	7058031	8534542	15641435	393	
+60050	7098868	8293540	15967021	385	
+61050	7624273	8904193	16010416	418	
+62050	7913680	9608577	17257983	248	
+63050	7966566	9438227	16621946	417	
+64050	8320981	9841253	17657447	429	
+65050	8656695	10088670	18119610	209	
+66050	9245925	10313304	19110381	504	
+67050	9347692	10932086	19357514	504	
+68050	9596119	11614005	20552438	509	
+69050	9954038	11689190	21121329	302	
+70050	10260003	12058816	21227611	248	
+71050	10450491	12415512	22445346	244	
+72050	10797850	12822035	22404227	320	
+73050	11075064	13190491	23476085	449	
+74050	11404268	13631834	24000366	457	
+75050	11765579	13696019	24456849	199	
+76050	12168924	14362693	25644055	557	
+77050	12374026	14896004	26411148	215	
+78050	12669233	15000270	26704897	232	
+79050	12970400	15291381	28139060	346	
+80050	13508253	15786936	28568006	514	
+81050	14180759	16688528	29819177	586	
+82050	14262962	16955035	30578224	543	
+83050	14973586	16851336	30607946	318	
+84050	14931222	17902663	32338877	387	
+85050	15790726	18748403	31878606	622	
+86050	15939899	18384096	32867698	304	
+87050	16301728	19676415	34012943	401	
+88050	16348520	19215235	34725299	293	
+89050	16623706	19713462	35265533	355	
+90050	17217136	20160723	35775372	492	
+91050	17734863	21085611	36846993	350	
+92050	18067849	21041232	37871895	627	
+93050	17863591	21366393	38273045	512	
+94050	18605164	22364223	40216104	626	
+95050	19485815	22724701	40417103	675	
+96050	19257027	22988201	40793563	536	
+97050	19612060	23095694	40331755	591	
+98050	
+99050	
